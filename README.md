@@ -3,7 +3,7 @@
 
 ## Description
 
-This repository contains the codes and algorithms developed during my specialization in **Data Analysis and Applications in Signal and Image Processing** at **École Centrale de Nantes**. Each project showcases various techniques and methodologies in the field, including algorithms and practical applications. Most projects include code written by professors, along with detailed explanations of the methodologies used. I am currently enrolled in this course, so many updates will be added as I progress through different subjects.
+This repository contains the codes and algorithms developed during my specialization in **Data Analysis and Applications in Signal and Image Processing** at **École Centrale de Nantes**. Each project showcases various techniques and methodologies in the field, including algorithms and practical applications. Some projects include code partly written by professors, along with detailed explanations of the methodologies used. I am currently enrolled in this course, so many updates will be added as I progress through different subjects.
 
 The specialization covers the following areas:
 
